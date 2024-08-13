@@ -1,6 +1,9 @@
-name = "Смородина"
-print(name[0])
-print(name[-1])
-print(name[3:9])
-print(name[::-1])
-print(name[::-2])
+name ="Alex"
+print(name)
+age = 51
+print(age)
+age = 52
+print(age)
+name ="is Student"
+type = True
+print(name,(type))
