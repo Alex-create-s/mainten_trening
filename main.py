@@ -1,9 +1,17 @@
-name ="Alex"
+name = "курс"
 print(name)
-age = 51
-print(age)
-age = 52
-print(age)
-name ="is Student"
-type = True
-print(name,(type))
+name = "Python"
+print(name)
+name ="всего_задач"
+print(name)
+name  ="12"
+print(name,type (name))
+name ="затрачено_часов"
+print(name)
+name = "1,5"
+print(name,type(name))
+name = "среднее_время_выполнения"
+print(name)
+print(12/1,5)
+name ="минут"
+print(name)
