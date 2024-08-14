@@ -1,7 +1,6 @@
-name ="Alex"
-print(name)
-age = 51
-print(age)
-print(age+1)
-is_Student ="True"
-print(is_Student)
+name = "Смородина"
+print(name[0])
+print(name[-1])
+print(name[4:9])
+print(name[::-1])
+print(name[::2])
